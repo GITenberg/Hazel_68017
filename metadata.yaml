@@ -5,6 +5,9 @@ contributor:
     agent_name: Roseland, Harry
     gutenberg_agent_id: '54571'
     url: http://www.gutenberg.org/2009/agents/54571
+covers:
+- cover_type: archival
+  image_path: 68017-h/images/cover.jpg
 creator:
   author:
     agent_name: Ovington, Mary White
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36204
     wikipedia: http://en.wikipedia.org/wiki/Mary_White_Ovington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68017#Hazel
 gutenberg_issued: '2022-05-08'
 identifiers:
   gutenberg: '68017'
